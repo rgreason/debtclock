@@ -42,7 +42,7 @@ function DebtClock(totalDebt, perCitizen, perHousehold, fps) {
     this.START_DEBT = 19176269111145;
     // Dollars per day (calculated by getting all the values from http://www.treasurydirect.gov/NP/BPDLogin?application=np
     // this year and then calculating the average increase a day)
-    this.DEBT_PER_DAY = 2100000000;
+    this.DEBT_PER_DAY = 2288045000;
     // The amount of citizens in USA
     this.CITIZENS = 306000000;
     // The amount of people in the average household
